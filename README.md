@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @LuongMonica
 - 👀 I’m interested in DevOps, infosec, automation, and really anything tech-related
 - 🌱 I’m currently learning containerization technologies, infosec principles, and more!
+- Visit my [LinkedIn](https://www.linkedin.com/in/monica-luong)
